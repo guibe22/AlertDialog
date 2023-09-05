@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextField</string>
+    <string name="alert_dialog_text">Esta acción espantará todas la mujeres</string>
+    <string name="alert_dialog_title">Atencion</string>
+    <string name="confirm">Confirmar?</string>
+
+</resources>
